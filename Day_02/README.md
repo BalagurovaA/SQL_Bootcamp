@@ -1,11 +1,4 @@
 # Day 02 — SQL Bootcamp
-
-## _Deep diving into JOINs in SQL_
-
-Resume: Today you will see how to get needed data based on different structures JOINs.
-
-💡 [Tap here](https://new.oprosso.net/p/4cb31ec3f47a4596bc758ea1861fb624) **to leave your feedback on the project**. It's anonymous and will help our team make your educational experience better. We recommend completing the survey immediately after the project.
-
 ## Contents
 
 1. [Chapter I](#chapter-i) \
@@ -75,27 +68,9 @@ It’s just a set of loops ... Not magic at all
 
 
 ## Chapter II
-## General Rules
-
-- Use this page as your only reference. Do not listen to rumors and speculations about how to prepare your solution.
-- Make sure you are using the latest version of PostgreSQL.
-- It is perfectly fine if you use the IDE to write source code (aka SQL script).
-- To be evaluated, your solution must be in your GIT repository.
-- Your solutions will be evaluated by your peers.
-- You should not leave any files in your directory other than those explicitly specified by the exercise instructions. It is recommended that you modify your `.gitignore` to avoid accidents.
-- Got a question? Ask your neighbor to the right. Otherwise, try your neighbor on the left.
-- Your reference manual: mates / Internet / Google. 
-- Read the examples carefully. You may need things not specified in the topic.
-- And may the SQL-Force be with you!
-Absolutely anything can be represented in SQL! Let's get started and have fun!
 
 ## Chapter III
 ## Rules of the day
-
-- Please make sure you have an own database and access for it on your PostgreSQL cluster. 
-- Please download a [script](materials/model.sql) with Database Model here and apply the script to your database (you can use command line with psql or just run it through any IDE, for example DataGrip from JetBrains or pgAdmin from PostgreSQL community). 
-- All tasks contain a list of Allowed and Denied sections with listed database options, database types, SQL constructions etc. Please have a look at that section before you start.
-- Please take a look at the Logical View of our Database Model. 
 
 ![schema](misc/images/schema.png)
 
