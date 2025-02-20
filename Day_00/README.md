@@ -1,11 +1,5 @@
 # Day 00 — SQL Bootcamp
 
-## _Relational Data Model and SQL_
-
-Resume: Today you will see how relational model works and how to get needed data based on basic constructions of SQL.
-
-💡 [Tap here](https://new.oprosso.net/p/4cb31ec3f47a4596bc758ea1861fb624) **to leave your feedback on the project**. It's anonymous and will help our team make your educational experience better. We recommend completing the survey immediately after the project.
-
 ## Contents
 
 1. [Chapter I](#chapter-i) \
@@ -39,9 +33,6 @@ Resume: Today you will see how relational model works and how to get needed data
 ## Preamble
 
 ![D01_01](misc/images/D01_01.png)
-
-Standards are everywhere, and Relational Databases are also under control as well :-). To be honest between us, more restricted SQL standards were at the beginning of 2000 years. Actually when the “Big Data” pattern was born, Relational Databases had their own way to realize this pattern and therefore standards are more... lightweight right now. 
-
 ![D01_02](misc/images/D01_02.png)
 
 Please take a look at some SQL standards below and try to think about the future of Relational Databases.
@@ -53,27 +44,10 @@ Please take a look at some SQL standards below and try to think about the future
 | ![D01_07](misc/images/D01_07.png) | ![D01_08](misc/images/D01_08.png) |
 
 ## Chapter II
-## General Rules
-
-- Use this page as your only reference. Do not listen to rumors and speculations about how to prepare your solution.
-- Make sure you are using the latest version of PostgreSQL.
-- It is perfectly fine if you use the IDE to write source code (aka SQL script).
-- To be evaluated, your solution must be in your GIT repository.
-- Your solutions will be evaluated by your peers.
-- You should not leave any files in your directory other than those explicitly specified by the exercise instructions. It is recommended that you modify your `.gitignore' to avoid accidents.
-- Got a question? Ask your neighbor to the right. Otherwise, try your neighbor on the left.
-- Your reference manual: mates / Internet / Google. 
-- Read the examples carefully. You may need things not specified in the topic.
-- And may the SQL-Force be with you!
-- Absolutely anything can be represented in SQL! Let's get started and have fun!
+- 
 
 ## Chapter III
 ## Rules of the day
-
--  Please make sure you have your own database and access to it on your PostgreSQL cluster.
-- Please download a [script](materials/model.sql) with Database Model here and apply the script to your database (you can use command line with psql or just run it through any IDE, for example DataGrip from JetBrains or pgAdmin from PostgreSQL community). 
-- All tasks contain a list of Allowed and Denied sections with listed database options, database types, SQL constructions etc. Please have a look at the section before you start.
-- Please have a look at the Logical View of our Database Model. 
 
 ![schema](misc/images/schema.png)
 
